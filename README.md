@@ -1,16 +1,18 @@
-### Hi there 👋
+# Joshua Castillon
 
-<!--
-**juriel1/juriel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scientist and data analyst | Cientifico y analista de datos
+Jalisco, Mexico
 
-Here are some ideas to get you started:
+## ----
+Computer engineering student interested in analysis and data science solutions and their development 
+|
+Estudiante de ingenieria en informatica interesado en las soluciones de analis y ciencia de datos y su desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills | Habilidades
+- Data Analysis | Analisis de datos 
+- Software development | Desarrollo de Software
+- Python, R, C#, C++
+- NoteBooks, Power BI, Excel, Git, GitHub
+
+## Connect with me | Conéctate Conmigo
+[LinkedIn](https://www.linkedin.com/in/uriel-castillon-488a49228/)
