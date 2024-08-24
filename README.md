@@ -40,7 +40,7 @@ Jalisco, Mexico
  
 ### Obtaining, cleaning, processing data with the Python language in Notebooks and great data visualization in Power BI
 ##### Obtencion, limpieza, procesamiento de datos con el lenguaje Python en Notebooks y una gran vizualizacion de datos en Power BI
-[IGN Games](https://github.com/juriel1/EDA-IGN-Games) 
+[IGN Games](https://github.com/juriel1/EDA-IGN-Game) 
   
 ![pbign](https://github.com/juriel1/juriel1/assets/93067527/d6aa0193-567c-4619-993e-f1f4cf8b5111)
 
