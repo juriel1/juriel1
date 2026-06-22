@@ -1,186 +1,110 @@
-# Programmer and game designer 🎮
+<h1 align="center">👋 Hola, soy Juriel</h1>
+<h3 align="center">📊 Analista de Datos → 🚀 Aspirante a Ingeniero & Científico de Datos</h3>
 
-<details>
 <p align="center">
-<img width="614" height="346" alt="woolball_logo" src="https://github.com/user-attachments/assets/5217b7a9-0fc0-4037-a570-d85e44816317" />
-</p>
-
-<h1 align="center">Woolball Studio</h1>
-<p align="center">
-  <strong>JUriel | Indie Game Developer & Software Engineer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Data+Analyst;Aspiring+Data+Engineer;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Looker" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Sobre Mí
-Soy un desarrollador indie e ingeniero informático en proceso, apasionado por crear experiencias únicas y divertidas en el software y los videojuegos.
+## 🧑‍💻 Sobre mí
 
-Con experiencia en la programación web, sistema de análisis de datos y lo más importante: **Videojuegos**.
+Soy analista de datos con experiencia en extracción, transformación y visualización de datos. Me encuentro en un camino de crecimiento profesional hacia la ingeniería y ciencia de datos, construyendo proyectos que van desde pipelines ETL hasta análisis exploratorios y dashboards interactivos.
 
----
-
-### 🛠️ Mi Stack de Tecnologías
-
-| Herramientas | Frameworks | Lenguajes |
-| :--- | :--- | :--- |
-| Godot | FastAPI | C# |
-| Unity | Django | GDScript |
-| GitHub | .NET | Python |
-| Blender | Vue.js | JavaScript |
-| SQL | React | TypeScript |
-| MongoDB | | VB |
-| | | C++ |
-| | | Java |
+- 🔭 Actualmente trabajando en proyectos de **análisis y modelado de datos**
+- 🌱 Aprendiendo **Cloud (GCP / AWS)**, **Machine Learning** y **Data Engineering**
+- 💬 Usando **Python, SQL, Power BI, Looker, Pandas**
+- 📍 México
 
 ---
 
-## 🚀 Mis Proyectos
-
-<details>
-<summary><strong>Factory exhaust</strong> - Juego multijugador de sigilo y escape.</summary>
-<br>
-  
-<img width="1142" height="635" alt="escape_factory_banner" src="https://github.com/user-attachments/assets/bb4cfce0-c936-45cc-b973-55596e7c059b" />
-
-
-**Descripción:** Intenta escapar de la fábrica… o captura a aquellos que los hagan. Juego multijugador en desarrollo donde robots de prueba intentan huir de guardias que los persiguen, usando el sigilo y el sonido a su favor.
-
-**Tecnologías:** Godot, GDScript, C#, GLSL, Steam.
-
-</details>
-
-<details>
-<summary><strong>Mate city</strong> - Plataforma educativa para practicar matemáticas.</summary>
-<br>
-  
-<img width="315" height="250" alt="mateduel_banner" src="https://github.com/user-attachments/assets/4aef13b0-e035-46b6-88c9-c127c001aa14" />
-
-
-**Descripción:** Ayuda a los habitantes de la Mate ciudad resolviendo sus problemas y haciéndose su amigo. Empezó como una demo (MateDuel) y evolucionó a una plataforma para que los niños practiquen matemáticas de forma divertida, con monitoreo para tutores.
-
-**Tecnologías:** Unity, C#, Python, Django, JavaScript, Vue.js.
+## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <a href="https://uriel1231.itch.io/mate-duel" target="_blank" rel="noopener noreferrer"><strong>Ver demo de MateDuel en Itch.io</strong></a>
-</p>
-</details>
-
-<details>
-<summary><strong>Hyper snake</strong> - El clásico Snake, pero reinventado en 3D.</summary>
-<br>
-  
-<img width="315" height="250" alt="hyper_snake_banner" src="https://github.com/user-attachments/assets/3fc4383f-5d14-416f-9ffb-8e2595a29ba6" />
-
-
-**Descripción:** La tradicional mecánica del Snake llevada al mundo del 3D, con diferentes niveles y un mundo de animalitos.
-
-**Tecnologías:** Unity, C#.
-
-
-<p align="center">
-  <a href="https://uriel1231.itch.io/hyper-sanke" target="_blank" rel="noopener noreferrer"><strong>Jugar en Itch.io</strong></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=visualbasic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</details>
+---
 
-<details>
-<summary><strong>RGB</strong> - Juego de plataformas para la GameOff 2024.</summary>
-<br>
+## 📂 Proyectos Destacados
 
-<img width="1280" height="502" alt="rgb_banner" src="https://github.com/user-attachments/assets/e20941e6-79c8-41bc-b5c3-fffd9695de61" />
+### 🦠 Análisis de Datos — COVID-19 México
 
+> Pipeline ETL completo para el análisis de datos epidemiológicos de COVID-19 en México. Incluye extracción, transformación, carga y visualización de los datos oficiales de la Secretaría de Salud.
 
-**Descripción:** Un plataformas speedrun donde el camino correcto está oculto. Debes cambiar los canales de color (R, G, B) para revelar u ocultar objetos y llegar a la cima en el menor tiempo posible. Incluye un shader personalizado de filtro GameBoy Color.
+**Tecnologías:** `Python` · `Jupyter Notebook` · `Pandas` · `SQL`
 
-**Tecnologías:** Godot, GDScript, GLSL.
+**Estructura del proyecto:**
+```
+📁 01_EXTRACT  →  Recolección de datos
+📁 02_TRANSFORM →  Limpieza y transformación
+📁 03_LOAD      →  Carga a base de datos
+📁 BI           →  Dashboards y visualizaciones
+```
+
+<!-- 🖼️ IMAGEN DEL PROYECTO: Reemplaza la URL con un screenshot de tu dashboard o notebook -->
+![COVID Dashboard](PBI_1.png)
+![COVID Dashboard](PBI_2.png)
+
+> 📌 **[Ver repositorio →](https://github.com/juriel1/Data-Analysis-Covid19-Mexico)**
+
+---
+
+### 🎮 EDA — IGN Games
+
+> Análisis Exploratorio de Datos (EDA) sobre el desempeño y calificación de videojuegos proporcionados por IGN. El proyecto abarca desde la recolección del dataset en Kaggle hasta dashboards en Power BI y Google Looker.
+
+**Tecnologías:** `Python` · `SQL` · `Jupyter Notebook` · `Power BI` · `Google Looker`
+
+**Funcionalidades:**
+- Recolección, procesamiento y limpieza de datos
+- Análisis estadístico exploratorio
+- Dashboard interactivo en **Google Looker**
+- Dashboard interactivo en **Power BI**
+
+![ING Dashboard](LOOK_1.png)
+
+> 📌 **[Ver repositorio →](https://github.com/juriel1/EDA-IGN-GAME)**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://uriel1231.itch.io/rgb" target="_blank" rel="noopener noreferrer"><strong>Jugar en Itch.io</strong></a> | 
-  <a href="https://uriel1231.itch.io/shader-filter-to-gmb-colors-rgb-godot" target="_blank" rel="noopener noreferrer"><strong>Ver asset en Itch.io</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=juriel1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juriel1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-</details>
+---
 
-<details>
-<summary><strong>Route System</strong> - Asset para Unity.</summary>
-<br>
-
-<img width="1024" height="1024" alt="Route_system_banner" src="https://github.com/user-attachments/assets/4105ce79-bc6d-4e0a-b527-39429627d36e" />
-
-
-**Descripción:** Un asset para Unity que permite manejar el movimiento de objetos a través de rutas predeterminadas de forma sencilla y visual desde el editor.
-
-**Tecnologías:** Unity, C#.
-
+## 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="https://uriel1231.itch.io/route-generator-unity" target="_blank" rel="noopener noreferrer"><strong>Ver en Itch.io</strong></a>
+  <!-- 🔗 Agrega tu LinkedIn real aquí -->
+  <a href="https://www.linkedin.com/in/uriel-castillon-488a49228">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- 📧 Agrega tu correo o reemplaza con otro medio de contacto -->
+  <a href="mailto:j.uriel.castillon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/juriel1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-</details>
-
 ---
-</details>
-
-# Scientist and data analyst  👨‍🔬
-<details>
-# 👨‍💻 Computer Engineering Student
-
-## Estudiante de Ingeniería en Informática
-Interesado en **soluciones de análisis**, **ciencia de datos** e **inteligencia de negocios (BI)**.
-Interested in **analytics solutions**, **data science**, and **business intelligence (BI)**.
-
----
-
-## 🚀 **Skills | Habilidades**  
-- **Data Analysis** | Análisis de datos :computer:
-- **Data Science** | Ciencia de datos :zap:
-- **Data Mining** | Minería de datos ⛏️
-- **Business Intelligence (BI)** | Inteligencia de negocios (BI) :zap:
-- **Data Visualization** | Visualización de datos 📊
-- **Software Development** | Desarrollo de software ⌨️
-
----
-
-### 🔧 **Technologies | Tecnologías**  
-- **Programming Languages**: Python, C#, R, C++, SQL, PHP, Visual Basic  
-- **Tools**: Power BI, Jupyter Notebooks, Git, GitHub, PostgreSQL, MySQL, RStudio, Excel
-
----
-
-## 🤝 **Connect with me | Conéctate Conmigo**  
-[LinkedIn](https://www.linkedin.com/in/uriel-castillon-488a49228/)  
-
----
-
-## 📂 **More Repos | Otros Repos**
-
-### 🧹 **Cleaning, Data Processing with R (RStudio) & Data Visualization in Power BI**
-#### Limpieza, procesamiento de datos con el lenguaje R en RStudio y una gran visualización de datos en Power BI
-
-- 📁 [COVID19 Mexico](https://github.com/juriel1/EDA-Covid19-Mexico)  
-
-![pbi_1](https://github.com/juriel1/juriel1/assets/93067527/218f80a0-148f-40be-a0f5-6b5469bbe3bb)
-
----
-
-### 🧑‍💻 **Data Processing with Python (Notebooks) & Data Visualization in Power BI**
-#### Obtención, limpieza y procesamiento de datos con el lenguaje Python en Notebooks y una gran visualización de datos en Power BI
-
-- 📁 [IGN Games](https://github.com/juriel1/EDA-IGN-Game)  
-
-![pbign](https://github.com/juriel1/juriel1/assets/93067527/d6aa0193-567c-4619-993e-f1f4cf8b5111)
-
----
-
-</details>
-### 📫 Contacto
 
 <p align="center">
-  <a href="https://uriel1231.itch.io/" target="_blank" rel="noopener noreferrer">Itch.io</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://twitter.com/JUriel_gd" target="_blank" rel="noopener noreferrer">X (Twitter)</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/juriel1" target="_blank" rel="noopener noreferrer">GitHub</a>
-</p>
-<p align="center">
-  <strong>Email:</strong> j.uriel.castillon@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; <strong>Discord:</strong> joshua123_
+  <i>"Los datos cuentan historias. Mi trabajo es escucharlas y comunicarlas."</i>
 </p>
