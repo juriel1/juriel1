@@ -31,12 +31,34 @@ Soy analista de datos con experiencia en extracción, transformación y visualiz
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AppSheet-00897B?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
+
+### 💰 Econometrics — Sistema de Autogestión Financiera Personal
+
+> Solución integral de BI e Ingeniería de Datos para llevar un control exacto del presupuesto personal. Cubre el ciclo de vida completo de los datos: desde la captura mediante una app móvil (AppSheet), pasando por almacenamiento y automatización en Google Workspace, hasta el modelado analítico en BigQuery y la visualización en Looker Studio.
+
+**Tecnologías:** `AppSheet` · `Google Sheets` · `Google Apps Script` · `BigQuery` · `SQL` · `Looker Studio`
+
+**Estructura del proyecto:**
+```
+📁 sql      →  Consultas y vistas de BigQuery
+📁 scripts  →  Automatización (Apps Script) para cierres y backups
+📁 docs     →  Documentación técnica y diccionario de datos
+📁 assets   →  Imágenes y capturas del dashboard
+```
+
+![Econometrics Dashboard](Looker_1.png)
+![Econometrics Dashboard](Looker_2.png)
+
+> 📌 **[Ver repositorio →](https://github.com/juriel1/Econometrics)**
+
+---
 
 ### 🦠 Análisis de Datos — COVID-19 México
 
